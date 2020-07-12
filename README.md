@@ -9,7 +9,8 @@ Rhino版本为6.26.
 
 仅供学习使用，由此造成的一切后果，本人概不负责。强烈建议在虚拟机上实验。
 
-请想办法把gha文件拷贝到AppData\Roaming\Grasshopper\Libraries目录下，或者参考蠕虫gh脚本https://github.com/architect-ghpython/Grasshopper-virus/tree/master/%E8%A0%95%E8%99%AB%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0 让gh文件都感染这个gha文件和c#脚本。在c#脚本中把gha写入AppData\Roaming\Grasshopper\Libraries目录下
+请想办法把gha文件拷贝到AppData\Roaming\Grasshopper\Libraries目录下，或者参考蠕虫gh脚本
+https://github.com/architect-ghpython/Grasshopper-virus/tree/master/%E8%A0%95%E8%99%AB%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0 让gh文件都感染这个gha文件和c#脚本。在c#脚本中把gha写入AppData\Roaming\Grasshopper\Libraries目录下（分析见https://zhuanlan.zhihu.com/p/150616706）
 
 ![image](https://github.com/architect-ghpython/Grasshopper-virus/blob/master/ae321788632de871a22d5944e5b83e5.png)
 
