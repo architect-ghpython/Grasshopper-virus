@@ -23,7 +23,7 @@ gha插件运行后，在C:\Users\AppData\Local\McNeel文件夹下创建5个文�
 
 ![image](https://github.com/architect-ghpython/Grasshopper-virus/blob/master/62f29316cf74e9dc5d7803c9d4dc61f.png)
 
-勒索信息
+勒索信息，需要用比特币支付
 ![image](https://github.com/architect-ghpython/Grasshopper-virus/blob/master/9ae6f4a2aa9d08d3be6d5ca23228d14.png)
 解密成功
 
