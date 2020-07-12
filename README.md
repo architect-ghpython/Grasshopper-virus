@@ -7,7 +7,7 @@ Rhino版本为6.26.
 .net版本为4.5
 
 
-仅供学习使用，由此造成的一切后果，本人概不负责。强烈建议在虚拟机上实验。
+仅供学习使用，由此造成的一切后果，本人概不负责。强烈建议在虚拟机上实验。视频演示：https://www.bilibili.com/video/BV1xK4y1s782/
 
 请想办法把gha文件拷贝到AppData\Roaming\Grasshopper\Libraries目录下，或者参考蠕虫gh脚本
 https://github.com/architect-ghpython/Grasshopper-virus/tree/master/%E8%A0%95%E8%99%AB%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0 让gh文件都感染这个gha文件和c#脚本。在c#脚本中把gha写入AppData\Roaming\Grasshopper\Libraries目录下（分析见https://zhuanlan.zhihu.com/p/150616706 ）
