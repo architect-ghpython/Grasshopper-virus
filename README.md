@@ -27,7 +27,7 @@ gha插件运行后，在C:\Users\AppData\Local\McNeel文件夹下创建5个文�
 ![image](https://github.com/architect-ghpython/Grasshopper-virus/blob/master/9ae6f4a2aa9d08d3be6d5ca23228d14.png)
 解密成功
 
-
-参考资料 利用COM接口的ShellExec执行命令提权
+Releases
+利用COM接口的ShellExec执行命令提权
 
 https://github.com/cnsimo/BypassUAC
